@@ -1,0 +1,6 @@
+{
+  "name": "TikSim",
+  "description": "Educational social media growth simulator and mockup studio for analyzing engagement metrics and post dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

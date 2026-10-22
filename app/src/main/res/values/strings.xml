@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TikSim</string>
+    <string name="title_boost_likes">Boost Likes (Simulator)</string>
+    <string name="btn_add_likes">Inject Likes</string>
+    <string name="disclaimer_simulation">Educational Simulation Mode Only - Metrics are locally generated mockups</string>
+</resources>
